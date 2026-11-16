@@ -1,9 +1,0 @@
-@import "tailwindcss";
-
-@theme {
-    --color-slate-light: hsl(212, 45%, 89%);
-    --color-slate-text: hsl(216, 15%, 48%);
-    --color-slate-dark: hsl(218, 44%, 22%);
-}
-
-
