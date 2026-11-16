@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR Code Component Screenshot](./design/desktop-design.jpg)
+![QR Code Component Screenshot](./images/MY-QRcode.png)
 
 
 ## My process
@@ -36,14 +36,6 @@ Working through this challenge helped reinforce foundational HTML and CSS concep
 - Structuring a clean card component using semantic HTML tags (`<main>`, `<img>`, `<h1>`, `<p>`).
 - Centering a component vertically and horizontally on the viewport using Flexbox:
 
-```css
-body {
-display: flex;
-justify-content: center;
-align-items: center;
-min-height: 100vh;
-}
-```
 
 ### Continued development
 
